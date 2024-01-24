@@ -1,0 +1,28 @@
+body {
+    padding: 50px;
+}
+
+.container, h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.btn_divs {
+    padding: 100px;
+    display: inline-block;
+    margin: 10px;
+}
+
+.no {
+    background-color: rgb(255, 109, 109);
+}
+
+.Si {
+    background-color: rgb(99, 176, 117);
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 10%;
+    border-style: none;
+}
